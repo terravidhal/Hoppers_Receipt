@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\TERRA_F\MES FORMATIONS1 TRIER\CERTIFICATION CODING DOJO\CodingDojo\java\java_Spring\Hoppers_Receipt\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+16579723.index
+2427406082.index
+1008032352.index
+331693603.index
+2529149635.index
+2369446284.index
+4140787630.index
